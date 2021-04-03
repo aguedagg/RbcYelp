@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Yelp Sample</string>
+
+    <string name="location_hint">Location...</string>
+    <string name="location_helper">i.e. New York City, NYC, 350 5th Ave, New York, NY 10118</string>
+    <string name="location_error">Location is required</string>
+
+    <string name="keyword_hint">Search...</string>
+    <string name="keyword_helper">i.e. food, restaurants, Starbucks</string>
+
+
+
+</resources>
